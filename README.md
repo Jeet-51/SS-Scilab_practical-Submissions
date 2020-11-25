@@ -1,6 +1,6 @@
 # SS-Scilab_practical-Submissions
-Name- JEET PATEL\n
-SAP Id- 60002190051\n
-SE-EXTC\n
-Batch 1\n
+Name-JEET PATEL
+SAP Id-60002190051
+SE-EXTC
+Batch:1
 E-13
